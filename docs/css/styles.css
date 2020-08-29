@@ -37,6 +37,10 @@
   margin: 40px 0 10px;
 }
 
+.pp-right {
+  text-align: right;
+}
+
 .pp-footer {
   text-align: center;
   width: 100%;
